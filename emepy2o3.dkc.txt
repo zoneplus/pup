@@ -1,0 +1,77 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch gh-pages
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   404.html
+#	new file:   History.markdown
+#	new file:   README.md
+#	new file:   Rakefile
+#	new file:   _config.yml
+#	new file:   _drafts/jekyll-introduction-draft.md
+#	new file:   _includes/JB/analytics
+#	new file:   _includes/JB/analytics-providers/gauges
+#	new file:   _includes/JB/analytics-providers/getclicky
+#	new file:   _includes/JB/analytics-providers/google
+#	new file:   _includes/JB/analytics-providers/google-universal
+#	new file:   _includes/JB/analytics-providers/mixpanel
+#	new file:   _includes/JB/analytics-providers/piwik
+#	new file:   _includes/JB/categories_list
+#	new file:   _includes/JB/comments
+#	new file:   _includes/JB/comments-providers/disqus
+#	new file:   _includes/JB/comments-providers/duoshuo
+#	new file:   _includes/JB/comments-providers/facebook
+#	new file:   _includes/JB/comments-providers/intensedebate
+#	new file:   _includes/JB/comments-providers/livefyre
+#	new file:   _includes/JB/feedburner
+#	new file:   _includes/JB/file_exists
+#	new file:   _includes/JB/gist
+#	new file:   _includes/JB/is_production
+#	new file:   _includes/JB/liquid_raw
+#	new file:   _includes/JB/pages_list
+#	new file:   _includes/JB/posts_collate
+#	new file:   _includes/JB/setup
+#	new file:   _includes/JB/sharing
+#	new file:   _includes/JB/sort_collection
+#	new file:   _includes/JB/tags_list
+#	new file:   _includes/themes/bootstrap-3/default.html
+#	new file:   _includes/themes/bootstrap-3/page.html
+#	new file:   _includes/themes/bootstrap-3/post.html
+#	new file:   _includes/themes/bootstrap-3/settings.yml
+#	new file:   _includes/themes/twitter/default.html
+#	new file:   _includes/themes/twitter/page.html
+#	new file:   _includes/themes/twitter/post.html
+#	new file:   _includes/themes/twitter/settings.yml
+#	new file:   _layouts/default.html
+#	new file:   _layouts/page.html
+#	new file:   _layouts/post.html
+#	new file:   _plugins/debug.rb
+#	new file:   _posts/core-samples/2011-12-29-jekyll-introduction.md
+#	new file:   archive.html
+#	new file:   assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css
+#	new file:   assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css
+#	new file:   assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css
+#	new file:   assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.eot
+#	new file:   assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.svg
+#	new file:   assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.ttf
+#	new file:   assets/themes/bootstrap-3/bootstrap/fonts/glyphicons-halflings-regular.woff
+#	new file:   assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js
+#	new file:   assets/themes/bootstrap-3/css/style.css
+#	new file:   assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css
+#	new file:   assets/themes/twitter/bootstrap/img/glyphicons-halflings-white.png
+#	new file:   assets/themes/twitter/bootstrap/img/glyphicons-halflings.png
+#	new file:   assets/themes/twitter/css/style.css
+#	new file:   atom.xml
+#	new file:   categories.html
+#	new file:   changelog.md
+#	new file:   index.md
+#	new file:   pages.html
+#	new file:   rss.xml
+#	new file:   sitemap.txt
+#	new file:   tags.html
+#
+
